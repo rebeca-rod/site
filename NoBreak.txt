@@ -1,0 +1,47 @@
+UPS = Uninterruptible Power Supply (ou fonte de alimentação ininterrupta)
+
+
+	Serve para fornecer energia elétrica temporária durante uma falha ou interrupção do fornecimento de energia. Ele protege equipamentos eletrônicos contra quedas de energia, picos de tensão e outras anomalias da rede elétrica, garantindo o funcionamento contínuo dos dispositivos conectados e a integridade dos dados.
+
+
+	Um NoBreak difere de um sistema de energia auxiliar ou gerador elétrico porque fornece proteção quase instantânea contra interrupções de energia, entregando de imediato a energia armazenada em baterias, supercapacitores ou volantes. A maioria dos NoBreaks fornece um tempo de energia relativamente curto (apenas alguns minutos), mas que é suficiente para iniciar uma fonte de energia secundária ou desligar o equipamento adequadamente!
+
+
+Tipos de Nobreak
+
+- Offline (Standby)
+- Online (Dupla conversão)
+- Interativo (Line interactive)
+
+
+Tipos de bateria
+ - Alimentação contínua = fica em carga constante
+ - Chumbo-ácido selada (VRLA/AGM) = comum em modelos residenciais
+ - Bateria estacionária = para descargas profundas e uso prolongado
+
+(Supercapacitores são componentes eletrônicos que armazenam energia elétrica de forma eletrostática com altíssima capacitância, mas a carga e a descarga são quase instantâneas. Volantes de inércia são sistemas mecânicos que armazenam energia sob a forma de energia cinética rotacional em um rotor giratório, são usados em indústrias e grandes data centers.)
+
+
+	Muitos modelos modernos incluem funções adicionais, como a regulação de tensão e filtragem de energia, que ajudam a proteger os equipamentos contra flutuações e interferências na rede elétrica.
+
+
+Um NoBreak (UPS) têm várias aplicações essenciais, sendo fundamentais para proteger e garantir o funcionamento de equipamentos críticos em diferentes ambientes.
+Exemplos: Ambientes de TI, ambientes industriais e comerciais, sistemas de segurança, equipamentos médicos, etc...
+
+
+Além do uso doméstico! Em residências, os NoBreaks, protegem computadores, televisores e outros aparelhos eletrônicos contra danos causados por picos de tensão e quedas de energia.
+
+
+
+fontes: https://pt.wikipedia.org/wiki/Fonte_de_alimenta%C3%A7%C3%A3o_ininterrupta
+
+https://tsshara.com.br/blog/nobreaks/ups-o-que-e-e-para-que-serve/
+
+
+
+
+
+
+
+
+
